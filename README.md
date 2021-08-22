@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hnmmallesh
+- 👋 Hi, I’m Mallikarjuna GOlla
 - 👀 I’m interested in Intelligent Transport Systems
 - 🌱 I’m currently learning AI & IOT for Traffic
 - 💞️ I’m looking to collaborate on AI & IOT
